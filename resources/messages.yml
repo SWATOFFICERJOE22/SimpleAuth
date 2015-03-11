@@ -20,5 +20,5 @@ login:
  permission: "You do not have permission to use the login command!"
  success: "You have been authenticated."
  error:
-  password: "Incorrect password!"
+  password: "Incorrect password! Error code 404"
   registered: "This account is not registered."
